@@ -1,0 +1,31 @@
+{
+  "BScStudents": [
+    {
+      "name": "Hossein Shakibania",
+      "field": "Generative Models",
+      "image": "./image/profiles/Hossein_Shakibania.jpg",
+      "linkedin": "https://www.linkedin.com/in/hossein-shakibania/",
+      "github": "https://github.com/hossshakiba",
+      "google_scholar": "https://scholar.google.com/citations?user=huveR90AAAAJ&hl=en&authuser=1",
+      "homepage": "https://hossshakiba.github.io/"
+    },
+    {
+      "name": "Sina Raoufi",
+      "field": "Computer Vision",
+      "image": "./image/profiles/Sina_Raoufi.jpg",
+      "linkedin": "https://www.linkedin.com/in/sinaraoufi/",
+      "github": "https://github.com/SinaRaoufi/",
+      "google_scholar": "https://scholar.google.com/citations?user=f0iw8XsAAAAJ&hl=en",
+      "homepage": ""
+    },
+    {
+      "name": "Saleh Aslani",
+      "field": "Computer Vision",
+      "image": "./image/profiles/Saleh_Aslani.jpg",
+      "linkedin": "https://www.linkedin.com/in/salehaslani/",
+      "github": "https://github.com/SalehAslani",
+      "google_scholar": "",
+      "homepage": ""
+    }
+  ]
+}

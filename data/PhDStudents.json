@@ -1,0 +1,49 @@
+{
+  "PhDStudents": [
+    {
+      "name": "Elham Alighardash",
+      "field": "Visual Question Answering",
+      "image": "./image/profiles/Elham_Alighardash.jpg",
+      "linkedin": "",
+      "github": "",
+      "google_scholar": "https://scholar.google.com/citations?user=RP3j9S8AAAAJ&hl=en",
+      "homepage": ""
+    },
+    {
+      "name": "Reza Yazdi",
+      "field": "Computer Vision",
+      "image": "./image/profiles/Reza_Yazdi.jpg",
+      "linkedin": "https://www.linkedin.com/in/reza-yazdi/",
+      "github": "",
+      "google_scholar": "",
+      "homepage": ""
+    },
+    {
+      "name": "Mojtaba Kordabadi",
+      "field": "Machine Learning",
+      "image": "./image/profiles/Mojtaba_Kordabadi.jfif",
+      "linkedin": "https://www.linkedin.com/in/mojtaba-kordabadi-02193487/",
+      "github": "",
+      "google_scholar": "",
+      "homepage": ""
+    },
+    {
+      "name": "Homayoun Rastegar",
+      "field": "Machine Vision",
+      "image": "./image/profiles/Homayoun_Rastegar.jpg",
+      "linkedin": "",
+      "github": "",
+      "google_scholar": "https://scholar.google.com/citations?user=P7dMnEgAAAAJ&hl=en",
+      "homepage": ""
+    },
+    {
+      "name": "Zahra Aghaei",
+      "field": "Machine Learning",
+      "image": "",
+      "linkedin": "",
+      "github": "",
+      "google_scholar": "",
+      "homepage": ""
+    }
+  ]
+}

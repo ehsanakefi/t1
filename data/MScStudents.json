@@ -1,0 +1,40 @@
+{
+  "MScStudents": [
+    {
+      "name": "Hamed Shaabani",
+      "field": "Visual Question Answering",
+      "image": "./image/profiles/Hamed_Shaabani.jfif",
+      "linkedin": "https://www.linkedin.com/in/hamed-shaabani-100937187/",
+      "github": "https://github.com/shaabanihamed",
+      "google_scholar": "",
+      "homepage": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "field": "Image Captioning",
+      "image": "./image/profiles/Ehsan_Akefi.jpg",
+      "linkedin": "https://www.linkedin.com/in/ehsan-akefi-4102a9122/",
+      "github": "https://github.com/ehsanakefi",
+      "google_scholar": "",
+      "homepage": ""
+    },
+    {
+      "name": "Ali Nafisi",
+      "field": "Machine Learning",
+      "image": "./image/profiles/Ali_Nafisi.jpg",
+      "linkedin": "https://www.linkedin.com/in/safinal/",
+      "github": "https://github.com/safinal/",
+      "google_scholar": "https://scholar.google.com/citations?hl=en&user=SM_UuoQAAAAJ",
+      "homepage": "https://safinal.github.io/"
+    },
+    {
+      "name": "Alireza Maleki",
+      "field": "Machine Learning",
+      "image": "./image/profiles/Alireza_Maleki.jpg",
+      "linkedin": "",
+      "github": "https://github.com/allirezamaleki",
+      "google_scholar": "https://scholar.google.com/citations?hl=en&user=4WBELHEAAAAJ",
+      "homepage": ""
+    }
+  ]
+}

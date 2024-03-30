@@ -1,0 +1,12 @@
+node_modules/
+
+# Ignore generated files
+dist/
+bundle.js
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore environment-specific files
+.env
